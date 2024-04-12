@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+This is Summer's Github:
 <!--
 **Summeryuqing01/summeryuqing01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working at Realix AI
+- 🌱 I’m currently learning neural networks and how to build my own website
