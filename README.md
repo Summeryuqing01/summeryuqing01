@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ✌😊 I’m currently working at Realix AI
-- 🌱 Currently learning neural networks and how to build my own website
+- ✌😊Currently working at Realix AI
+- 🌱 Learning neural networks and how to build my own website
 - 🤓 My github page: https://summeryuqing01.github.io/
