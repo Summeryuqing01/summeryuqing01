@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - ✌😊Currently working at Realix AI
-- 🌱 Learning neural networks and how to build my own website
 - 🤓 My github page: https://summeryuqing01.github.io/
+- Learning Road Map: https://roadmap.sh/ai-data-scientist
