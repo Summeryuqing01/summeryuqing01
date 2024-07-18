@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ✌😊Currently working at Realix AI as a data scientist intern
+- ✌😊Currently working at Realix AI as a data science intern
 - 🤓 My github page: https://summeryuqing01.github.io/
