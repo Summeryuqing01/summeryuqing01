@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 - ✌😊Currently working at Realix AI
 - 🤓 My github page: https://summeryuqing01.github.io/
-- Learning Road Map: https://roadmap.sh/ai-data-scientist
