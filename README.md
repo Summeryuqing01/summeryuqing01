@@ -16,5 +16,8 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning ML lifecycle
 - 🤓 My github page: https://summeryuqing01.github.io/
-  
-![Image](https://github.com/user-attachments/assets/c44e2a04-8b68-4b2a-8390-9bccd86f1c87)
+
+
+  <p align="center" width="100%">
+    <img width="33%" src="https://github.com/user-attachments/assets/dc2d1cc6-71c2-4666-a0b4-e0b3e46f054b"> 
+</p>
