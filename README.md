@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning ML lifecycle
+- ⚡ Fun fact: I just wanted my CHEESE
+- 🌱 I’m currently reviewing statistical and machine learning methods in Python
 - 🤓 My github page: https://summeryuqing01.github.io/
 
 
