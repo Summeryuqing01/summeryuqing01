@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- ⚡ Fun fact: I just wanted my CHEESE
+- ⚡ I just wanted my CHEESE
 - 🌱 I’m currently reviewing statistical and machine learning methods in Python
 - 🤓 My github page: https://summeryuqing01.github.io/
 
